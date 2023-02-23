@@ -1,4 +1,8 @@
-# FirstApp
+# Recipe Book Training
+https://angular-fxjtrr.stackblitz.io/
+
+Totally reecommended from
+https://www.udemy.com/course/the-complete-guide-to-angular-2/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
 
